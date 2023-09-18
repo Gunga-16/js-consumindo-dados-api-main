@@ -1,2 +1,2 @@
-# js consumindo dados api main
-Projeto desenvolvido no curso JavaScript: consumindo e tratando dados de uma API da plataforma Alura.
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
